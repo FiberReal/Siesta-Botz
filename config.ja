@@ -48,23 +48,22 @@ global.sdc = 'https://wa.me/6283866366437'
 global.snh = 'https://youtube.com/channel/Siesta Botz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083866366437'
-global.povo = '083866366437'
-global.pgopay = '083866366437'
+global.pdana = '085276788594'
+global.pgopay = '085276788594'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
-global.namebot = 'Siesta MD'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '6285276788594'
+global.nomorown = '6285276788594'
+global.namebot = 'FIBER DS'
+global.nameown = 'FIBER BOTS'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+  ['6285276788594'],
+  ['6285276788594'],
+  ['6285276788594'],
+  ['6285276788594', 'FIBER DS', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +108,14 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Siesta MD' //Main Watermark
-global.wm2 = 'Siesta MD'
-global.wm3 = 'Siesta MD'
+global.wm = 'FIBER DS' //Main Watermark
+global.wm2 = 'FIBER DS'
+
+global.wm3 = 'FIBER DS'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Kanna Chan🤗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ FIBER BOTS🤗 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
